@@ -1,0 +1,1 @@
+fbc64 -x ./fbsp.dll -arch 386 -dll src/main.bas -gen gcc
